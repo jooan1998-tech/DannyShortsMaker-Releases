@@ -1,9 +1,9 @@
 {
-  "version": "4.0.82",
-  "fix": "FIX82",
+  "version": "4.0.83",
+  "fix": "FIX83",
   "channel": "STANDARD",
   "update_available": true,
-  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/FIX82/DannyShortsMaker_FIX82_UPDATE.zip",
-  "sha256": "4b1e55210529f8f2c5809e9b8612ab5fd8bb941a29647b25db9a6b80dceb2a03",
-  "release_notes": "FIX82 - hidden restart path and guaranteed single-window browser cleanup"
+  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/FIX83/DannyShortsMaker_FIX83_UPDATE.zip",
+  "sha256": "8563d02557b90dc70ac926a06c75c3283db41ec1356154d9a30e72291332f938",
+  "release_notes": "FIX83 - wait for launcher lock release before automatic restart"
 }
