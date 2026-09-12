@@ -1,9 +1,9 @@
 {
-  "version": "4.0.81",
-  "fix": "FIX81",
+  "version": "4.0.82",
+  "fix": "FIX82",
   "channel": "STANDARD",
   "update_available": true,
-  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/FIX81/DannyShortsMaker_FIX81_UPDATE.zip",
-  "sha256": "5d90bfae47017419ddc0c22a14fd121762d66e9319df497bd1325a69b6a56b97",
-  "release_notes": "FIX81 - Updater V2, hidden updater execution, single-window restart, secure backup and rollback"
+  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/FIX82/DannyShortsMaker_FIX82_UPDATE.zip",
+  "sha256": "4b1e55210529f8f2c5809e9b8612ab5fd8bb941a29647b25db9a6b80dceb2a03",
+  "release_notes": "FIX82 - hidden restart path and guaranteed single-window browser cleanup"
 }
