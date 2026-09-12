@@ -1,9 +1,9 @@
 {
-  "version": "4.0.80",
-  "fix": "FIX80",
+  "version": "4.0.81",
+  "fix": "FIX81",
   "channel": "STANDARD",
-  "update_available": false,
-  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/v4.0.80/DannyShortsMaker_FIX80_TEST_UPDATE.zip",
-  "sha256": "e83a526681d365a4a818daec5cc401ad18e902103a0f0297da953273d9a85fe5",
-  "release_notes": "FIX80 TEST UPDATE - automatic update system test"
+  "update_available": true,
+  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/FIX81/DannyShortsMaker_FIX81_UPDATE.zip",
+  "sha256": "5d90bfae47017419ddc0c22a14fd121762d66e9319df497bd1325a69b6a56b97",
+  "release_notes": "FIX81 - Updater V2, hidden updater execution, single-window restart, secure backup and rollback"
 }
