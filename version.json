@@ -1,9 +1,9 @@
 {
-  "version": "4.0.83",
-  "fix": "FIX83",
+  "version": "4.0.84",
+  "fix": "FIX84",
   "channel": "STANDARD",
   "update_available": true,
-  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/FIX83/DannyShortsMaker_FIX83_UPDATE.zip",
-  "sha256": "8563d02557b90dc70ac926a06c75c3283db41ec1356154d9a30e72291332f938",
-  "release_notes": "FIX83 - wait for launcher lock release before automatic restart"
+  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/FIX84/DannyShortsMaker_FIX84_UPDATE.zip",
+  "sha256": "0048a2b5d0fb651a5b8e76c6279812b2fb395638fd1b8edb602ae394c0a142a4",
+  "release_notes": "FIX84 - final automatic restart and parent launcher shutdown"
 }
