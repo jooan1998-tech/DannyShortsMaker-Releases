@@ -1,9 +1,9 @@
 {
-  "version": "4.0.84",
-  "fix": "FIX84",
+  "version": "4.0.85",
+  "fix": "FIX85",
   "channel": "STANDARD",
   "update_available": true,
-  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/FIX84/DannyShortsMaker_FIX84_UPDATE.zip",
-  "sha256": "0048a2b5d0fb651a5b8e76c6279812b2fb395638fd1b8edb602ae394c0a142a4",
-  "release_notes": "FIX84 - final automatic restart and parent launcher shutdown"
+  "download_url": "https://github.com/jooan1998-tech/DannyShortsMaker-Releases/releases/download/FIX85/DannyShortsMaker_FIX85_UPDATE.zip",
+  "sha256": "b66af3a79aee910ecc30f4367ec239035a85dbdd2cde2340cbd34bcd19cfb2ae",
+  "release_notes": "FIX85 - in-window update progress and manual desktop-icon restart 안내"
 }
